@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "antd": "latest",
+    "gatsby": "1.9.277",
+    "moment": "2",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "keywords": [],
+  "name": "antd-reproduction-template",
+  "description": ""
+}
